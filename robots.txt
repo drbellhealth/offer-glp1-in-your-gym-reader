@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://drbellhealth.github.io/offer-glp1-in-your-gym-reader/sitemap.xml

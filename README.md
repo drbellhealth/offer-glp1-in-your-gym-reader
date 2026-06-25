@@ -1,1 +1,0 @@
-# offer-glp1-in-your-gym-reader
